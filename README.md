@@ -1,2 +1,1 @@
-# MyPersonalBlog
-Learn and contribute to make our own personal blog
+FOLDER TEMPLATE CONTAINS VARIOUS HTML LAYOUTS
